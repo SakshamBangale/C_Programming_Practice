@@ -1,9 +1,9 @@
 # 🚀 C Programming Practice
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="C Programming Practice Banner" width="100%">
   
-</p>
+</p> -->
 
 <p align="center">
 
