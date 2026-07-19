@@ -59,7 +59,7 @@ c-programming-practice/
 ├── data-structures/
 ├── algorithms/
 ├── interview-questions/
-├── mini-projects/
+├── /
 ├── exercises/
 ├── practice-sets/
 ├── docs/
