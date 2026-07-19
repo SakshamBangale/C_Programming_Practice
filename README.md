@@ -59,7 +59,7 @@ c-programming-practice/
 ├── data-structures/
 ├── algorithms/
 ├── interview-questions/
-├── /
+├── dynamic-memory/
 ├── exercises/
 ├── practice-sets/
 ├── docs/
