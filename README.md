@@ -34,7 +34,7 @@ Whether you're a beginner learning C or preparing for technical interviews, this
 - ✅ Well Commented Source Code
 - ✅ Coding Interview Questions
 - ✅ Practice Exercises
-- ✅ 
+- ✅ Dynamic-memory
 - ✅ Data Structures
 - ✅ Algorithms
 - ✅ Open Source Friendly
