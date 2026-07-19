@@ -8,7 +8,6 @@
 <p align="center">
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-success)
 ![Status](https://img.shields.io/badge/Status-Active-orange)
