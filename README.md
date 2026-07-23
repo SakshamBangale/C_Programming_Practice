@@ -262,7 +262,7 @@ Run
 10. File Handling
 11. Data Structures
 12. Algorithms
-13. 
+13. Dynamic-memory
 
 ---
 
