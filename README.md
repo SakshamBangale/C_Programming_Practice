@@ -262,7 +262,7 @@ Run
 10. File Handling
 11. Data Structures
 12. Algorithms
-13. Mini Projects
+13. 
 
 ---
 
@@ -296,14 +296,6 @@ git push origin feature-name
 
 # 📌 Repository Goals
 
-- [ ] 100 Beginner Programs
-- [ ] 100 Intermediate Programs
-- [ ] 100 Advanced Programs
-- [ ] 50 Interview Questions
-- [ ] 20 Mini Projects
-- [ ] 100 Exercises
-- [ ] CI/CD Pipeline
-- [ ] Documentation
 
 ---
 
